@@ -1,2 +1,1 @@
-# python-learning-journey-2026
-My journey from beginner to AI Developer and Prompt Engineer.
+Python learning journey from beginner to AI Developer. Daily coding practice, LeetCode solutions, HackerRank exercises, mini-projects, and interview preparation.

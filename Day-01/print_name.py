@@ -10,7 +10,7 @@ Become an AI Developer, Prompt Engineer, and Software Engineer.
 
 ## Start Date
 
-22 June 
+22 June 2-26
 
 ---
 

@@ -1,4 +1,3 @@
-
 # Python Day 05 – Strings
 
 ## Date
